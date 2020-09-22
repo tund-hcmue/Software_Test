@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS02,Chrome 85.0.4183.102,,,2020-09-23 04:51:40,2020-09-23 04:51:53,12.945s,PASSED
+,,,,,,,
+Test Cases/TC01_LoginFail,Chrome 85.0.4183.102,,,2020-09-23 04:51:40,2020-09-23 04:51:47,6.863s,PASSED
+"openBrowser("""")",Chrome 85.0.4183.102,,,2020-09-23 04:51:41,2020-09-23 04:51:43,1.841s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/online/"")",Chrome 85.0.4183.102,,,2020-09-23 04:51:43,2020-09-23 04:51:44,1.603s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_ng nhp""))",Chrome 85.0.4183.102,,,2020-09-23 04:51:44,2020-09-23 04:51:45,0.479s,PASSED
+"setText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7""), ""43.01.104.196"")",Chrome 85.0.4183.102,,,2020-09-23 04:51:45,2020-09-23 04:51:46,1.107s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Mt m_ctl00ContentPlaceHolder1ctl00ctl_4544f5""), ""tzH6RvlfSTg="")",Chrome 85.0.4183.102,,,2020-09-23 04:51:46,2020-09-23 04:51:46,0.474s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_S lng truy cp _ctl00ContentPlaceHolde_c71575""))",Chrome 85.0.4183.102,,,2020-09-23 04:51:46,2020-09-23 04:51:47,0.471s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/td_Mt m truy cp khng chnh xc""), 0)",Chrome 85.0.4183.102,,,2020-09-23 04:51:47,2020-09-23 04:51:47,0.413s,PASSED
+closeBrowser(),Chrome 85.0.4183.102,,,2020-09-23 04:51:47,2020-09-23 04:51:47,0.084s,PASSED
+,,,,,,,
+Test Cases/TC05_XemTinNhan,Chrome 85.0.4183.102,,,2020-09-23 04:51:47,2020-09-23 04:51:53,5.783s,PASSED
+"openBrowser("""")",Chrome 85.0.4183.102,,,2020-09-23 04:51:47,2020-09-23 04:51:48,0.609s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/online/"")",Chrome 85.0.4183.102,,,2020-09-23 04:51:48,2020-09-23 04:51:49,0.751s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/Page_UP Portal  HoChiMinh University of Pedagogy/a_ng nhp""))",Chrome 85.0.4183.102,,,2020-09-23 04:51:49,2020-09-23 04:51:49,0.564s,PASSED
+"setText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/Page_UP Portal  HoChiMinh University of Pedagogy/input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7""), ""43.01.104.196"")",Chrome 85.0.4183.102,,,2020-09-23 04:51:49,2020-09-23 04:51:50,1.103s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/Page_UP Portal  HoChiMinh University of Pedagogy/input_Mt m_ctl00ContentPlaceHolder1ctl00ctl_4544f5""), ""MVyg4iz2AWvX5eqkRTLXhA=="")",Chrome 85.0.4183.102,,,2020-09-23 04:51:50,2020-09-23 04:51:51,0.429s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/Page_UP Portal  HoChiMinh University of Pedagogy/input_S lng truy cp _ctl00ContentPlaceHolde_c71575""))",Chrome 85.0.4183.102,,,2020-09-23 04:51:51,2020-09-23 04:51:51,0.568s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/Page_UP Portal  HoChiMinh University of Pedagogy/a_Xem tin nhn""))",Chrome 85.0.4183.102,,,2020-09-23 04:51:51,2020-09-23 04:51:52,0.476s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/Page_UP Portal  HoChiMinh University of Pedagogy/a_N hc ph""), 0)",Chrome 85.0.4183.102,,,2020-09-23 04:51:52,2020-09-23 04:51:53,1.038s,PASSED
+closeBrowser(),Chrome 85.0.4183.102,,,2020-09-23 04:51:53,2020-09-23 04:51:53,0.078s,PASSED
