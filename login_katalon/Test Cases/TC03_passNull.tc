@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_passNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be8861b3-e214-41af-a9cb-96401dcac073</testCaseGuid>
+</TestCaseEntity>
